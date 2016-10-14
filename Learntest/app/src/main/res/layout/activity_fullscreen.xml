@@ -48,7 +48,6 @@
 
         <TextView
             android:text="11111111111111"
-            android:background="@mipmap/ic_launcher"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView"/>
